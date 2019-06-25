@@ -1,1 +1,1 @@
-# psico-octo-enigma
+# psico-octo-enigma python (basic)
