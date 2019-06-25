@@ -1,0 +1,4 @@
+n1 = int (input ('Qual a nota da primeira prova: '))
+n2 = int (input ('Digite a nota da segunda prova: '))
+n3 = (n1 + n2)/2
+print ('a média entre n1 e n2 será {}'.format (n3))
